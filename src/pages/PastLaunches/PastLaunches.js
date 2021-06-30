@@ -1,5 +1,5 @@
 import React, {Fragment} from 'react';
-import {fromPromise, gql, useQuery} from '@apollo/client';
+import {gql, useQuery} from '@apollo/client';
 import Error from './../../components/Error'
 import Loader from './../../components/Loader'
 import LaunchesFeed from './../../components/LaunchesFeed';
