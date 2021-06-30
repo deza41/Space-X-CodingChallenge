@@ -1,6 +1,6 @@
 # SpaceX - Coding Challenge
 
-This was a challenge project which gave you a react project that was half completed and you were to implement the remainder of it to create a functional website.
+Challenge project which gave you a react project that was half completed and you were to implement the remainder of it to create a functional website.
 
 
 ## Technologies used in the project:
